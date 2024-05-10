@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://N-andronic1991.github.io/news-team-project/",
+  "homepage": "https://N-andronic1991.github.io/News-team-JSproject/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /news-team-project/"
+    "build": "parcel build src/*.html --public-url /News-team-JSproject/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/N-andronic1991/news-team-project.git"
+    "url": "git+https://github.com/N-andronic1991/News-team-JSproject.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
